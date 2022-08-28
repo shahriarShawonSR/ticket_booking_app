@@ -1,0 +1,21 @@
+seatStatus: {
+    sold: {
+        text: "Sold",
+        color: "#ff0000"
+    },
+    available: {
+        text: "Available",
+        color: "#fff"
+    },
+    booked: {
+        text: "booked",
+        color: "gray"
+    },
+    selected: {
+        text: "selected",
+        color: "#00ff00"
+    }
+}
+
+## seat Status HTML
+==============================================================
